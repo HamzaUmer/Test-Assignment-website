@@ -560,7 +560,7 @@ b. Hero
     font-family: "Raleway", sans-serif;
   }
   .hero-text a {
-    margin-left: 90px;
+    margin-left: 100px;
     margin-top: 10px;
   }
   .hero-btn {
@@ -580,14 +580,14 @@ b. Hero
   }
   .hero-img img {
     margin-top: 12px;
-    width: 330px;
+    width: 350px;
     height: 180px;
   }
   /*..........
 c. Feature
 ...........*/
   .feature {
-    height: 1600px;
+    height: 1500px;
   }
   .feature-heading h1 {
     font-size: 30px;
